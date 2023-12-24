@@ -9,7 +9,7 @@ Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue logo">
+    <img width="180" src="https://avatars.githubusercontent.com/u/6128107?" alt="Vue logo">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="Inertia logo">
+    <img width="180" src="https://avatars.githubusercontent.com/u/47703742?" alt="Inertia logo">
   </a>
 </p>
 
