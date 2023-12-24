@@ -8,14 +8,8 @@ Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
 |      |      |      |
 |------|------|------|
-| ![Laravel Logo](https://avatars.githubusercontent.com/u/958072? 'Laravel') | ![Vue Logo](https://avatars.githubusercontent.com/u/6128107? 'Vue') | ![Tailwind Logo](Tailwind_Logo_URL 'Tailwind') |
+| ![Laravel Logo](https://avatars.githubusercontent.com/u/958072?s=120&v=4 'Laravel') | ![Vue Logo](https://avatars.githubusercontent.com/u/6128107?s=200&v=4'Vue') | ![Tailwind Logo](https://avatars.githubusercontent.com/u/67109815?s=120&v=4 'Tailwind') |
 
-
-
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="https://avatars.githubusercontent.com/u/67109815" alt="Tailwind logo">
-    <br>Tailwind CSS v3.4
-  </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://avatars.githubusercontent.com/u/47703742?" alt="Inertia logo">
     <br>Inertia.js v1.0
