@@ -6,7 +6,40 @@ Bu projede Laravel, Vue.js, Tailwind CSS, Inertia.js ve VITE kullanılarak moder
 
 Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://vitejs.dev/logo.svg" alt="Vite logo">
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="Inertia logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://avatars.githubusercontent.com/u/67109815" alt="Tailwind logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://avatars.githubusercontent.com/u/958072?" alt="Tailwind logo">
+  </a>
+</p>
+
 
 - Laravel v10.38.2
 - Vue v3.3.13
