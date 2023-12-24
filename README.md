@@ -6,23 +6,36 @@ Bu projede Laravel, Vue.js, Tailwind CSS, Inertia.js ve VITE kullanılarak moder
 
 Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
-<p align="center">
+<div align="center">
+ <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="100" src="https://avatars.githubusercontent.com/u/958072?" alt="Laravel logo">
+    <br>Laravel v10.38.2
+  </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://avatars.githubusercontent.com/u/6128107?" alt="Vue logo">
     <br>Vue v3.3.13
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="https://vitejs.dev/logo.svg" alt="Vite logo">
-    <br>Vite v5.0.10
+    <img width="100" src="https://avatars.githubusercontent.com/u/67109815" alt="Tailwind logo">
+    <br>Tailwind CSS v3.4
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://avatars.githubusercontent.com/u/47703742?" alt="Inertia logo">
     <br>Inertia.js v1.0
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="https://avatars.githubusercontent.com/u/67109815" alt="Tailwind logo">
-    <br>Tailwind CSS v3.4
+   <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="100" src="https://vitejs.dev/logo.svg" alt="Vite logo">
+    <br>Vite v5.0.10
   </a>
+  
+
+  <!-- Diğer logolar ve altındaki yazılar aynı şekilde eklenir -->
+</div>
+
+  
+ 
+ 
+  
   <!-- Diğer logolar ve versiyonları -->
 </p>
 
