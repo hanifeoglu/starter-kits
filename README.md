@@ -9,7 +9,7 @@ Bu proje aşağıdaki teknolojileri kullanmaktadır:
 | Laravel  | Vue  | Tailwind  | Inertia  | Vite  |
 |------|------|------|------|------|
 | ![Laravel Logo](https://avatars.githubusercontent.com/u/958072?s=120&v=4 'Laravel') | ![Vue Logo](https://avatars.githubusercontent.com/u/6128107?s=120&v=4'Vue' 'Vue') | ![Tailwind Logo](https://avatars.githubusercontent.com/u/67109815?s=120&v=4 'Tailwind') | ![Inertia Logo](https://avatars.githubusercontent.com/u/47703742?s=120&v=4 'Inertia') | ![Vite Logo](https://avatars.githubusercontent.com/u/65625612?s=120&v=4 'Vite') |
-| Laravel v10.38.2 | Vue v3.3.13 | Tailwind CSS v3.4 | Inertia.js v1.0 | Vite v5.0.10 |
+| v10.38.2 | v3.3.13 | CSS v3.4 | v1.0 | v5.0.10 |
 
 
 
