@@ -41,3 +41,11 @@ Migration'ları çalıştırmak için:
 ```
 php artisan migrate
 ```
+
+
+### Projeyi Çalıştırın
+Proje başlatmak için:
+
+```
+npm run dev
+```
